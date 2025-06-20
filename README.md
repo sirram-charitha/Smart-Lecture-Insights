@@ -19,10 +19,6 @@ An intelligent NLP-powered system that converts lecture audio into insightful su
 - Google Speech API
 - Streamlit (for frontend, if applicable)
 
-## 🖼️ Screenshots
-
-> Upload and display screenshots of your UI or results here  
-> Example: audio file → extracted summary
 
 ## 📁 Folder Structure
 
